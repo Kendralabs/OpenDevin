@@ -1,6 +1,6 @@
 {
   "WORKSPACE$TITLE": {
-    "en": "OpenDevin Workspace",
+    "en": "Kendra Code Workspace",
     "zh-CN": "OpenDevin 工作区",
     "de": "OpenDevin Arbeitsbereich",
     "ko-KR": "OpenDevin 워크스페이스",
@@ -80,7 +80,7 @@
     "tr": "Tarayıcı"
   },
   "CONFIGURATION$OPENDEVIN_WORKSPACE_DIRECTORY_INPUT_LABEL": {
-    "en": "OpenDevin Workspace directory",
+    "en": "Kendra Code Workspace directory",
     "zh-CN": "OpenDevin 工作区目录",
     "de": "OpenDevin Arbeitsbereichsverzeichnis",
     "ko-KR": "OpenDevin 워크스페이스 폴더",
@@ -359,9 +359,9 @@
     "fr": "Envoyer"
   },
   "CHAT_INTERFACE$INITIAL_MESSAGE": {
-    "en": "Hi! I'm OpenDevin, an AI Software Engineer. What would you like to build with me today?",
+    "en": "Hi! I'm Kendra Code, a System Code Engine. What would you like to build with me today?",
     "zh-CN": "你好！我是 OpenDevin，一名 AI 软件工程师。今天想和我一起编写什么程序呢?",
-    "de": "Hi! I'm OpenDevin, an AI Software Engineer. What would you like to build with me today?",
+    "de": "Hi! I'm OpenDevin, a System Code Engine. What would you like to build with me today?",
     "ko-KR": "안녕하세요! 저는 오픈데빈(OpenDevin), AI 소프트웨어 엔지니어입니다. 오늘은 저와 함께 무엇을 만들어 볼까요?",
     "no": "Hi! I'm OpenDevin, an AI Software Engineer. What would you like to build with me today?",
     "zh-TW": "嗨！我是 OpenDevin，一位人工智慧軟體工程師。你今天想和我一起建造什麼？",
